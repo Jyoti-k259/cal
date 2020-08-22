@@ -1,2 +1,6 @@
 this is my second file. This is to add to remote cal repo.
+<<<<<<< HEAD
 check check
+=======
+this is to check the conflict in test2
+>>>>>>> f688088ea16899c374eff4f7e2973b7f38074964
